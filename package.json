@@ -1,0 +1,27 @@
+{
+  "name": "nodeexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "lint": "esLint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroCruzNOK/nodeExpress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedroCruzNOK/nodeExpress/issues"
+  },
+  "homepage": "https://github.com/PedroCruzNOK/nodeExpress#readme",
+  "dependencies": {
+    "nodemon": "^2.0.18",
+    "prettier": "^2.7.1"
+  }
+}
